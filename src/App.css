@@ -1,8 +1,0 @@
-.parent {
-  background: rgb(77, 34, 195);
-  background: linear-gradient(
-    82deg,
-    rgba(77, 34, 195, 1) 0%,
-    rgba(132, 32, 238, 1) 100%
-  );
-}
