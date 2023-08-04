@@ -2,7 +2,7 @@ import MSCLogo from "../assets/MSCLogo";
 
 const Header = () => {
   return (
-    <header className="bg-white borded rounded-2xl shadow-md px-[23px] py-[27px] flex flex-row justify-center items-center gap-4">
+    <header className="bg-white borded rounded-lg shadow-md px-[23px] py-[27px] flex flex-row justify-center items-center gap-4">
       <div className="logo-wrapper">
         <MSCLogo />
       </div>
