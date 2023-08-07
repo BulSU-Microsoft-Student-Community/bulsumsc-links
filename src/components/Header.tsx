@@ -10,7 +10,7 @@ const Header = () => {
         <h1 className="text-md sm:text-xl text-ms-blue font-bold">
           BulSU Microsoft Student Community
         </h1>
-        <span className="text-base">Inspire | Teach | Promote</span>
+        <span className="text-sm sm:text-base">Inspire | Teach | Promote</span>
       </div>
     </header>
   );
