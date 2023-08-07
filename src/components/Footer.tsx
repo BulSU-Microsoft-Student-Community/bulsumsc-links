@@ -23,8 +23,7 @@ const Footer = () => {
           </div>
         </footer>,
         document.body
-      )}{" "}
-      ;
+      )}
     </>
   );
 };
