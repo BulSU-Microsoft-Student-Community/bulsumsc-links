@@ -13,7 +13,7 @@ const EventItem: React.FC<EventItemProps> = ({
   return (
     <a href={link} target="_blank">
       <div className="bg-white px-6 py-3 rounded-lg shadow border-2 border-green-500">
-        <p className="text-center font-semibold text-ms-blue sm:text-lg">
+        <p className="text-center text-sm font-semibold text-ms-blue sm:text-lg">
           {children || "Empty Event Item"}
         </p>
         {subheading || date ? (
