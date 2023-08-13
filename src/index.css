@@ -36,3 +36,27 @@ body {
 footer {
   margin-top: auto;
 }
+
+.gradient-button {
+  background-image: radial-gradient(
+    circle farthest-corner at 10% 20%,
+    rgba(237, 3, 32, 0.87) 20.8%,
+    rgba(242, 121, 1, 0.84) 74.4%
+  );
+}
+
+.ripple {
+  animation: ripple 1s linear infinite;
+}
+
+@keyframes ripple {
+  0% {
+    box-shadow: 0 0 0 0 rgba(256, 256, 256, 0.87);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(256, 256, 256, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(256, 256, 256, 0);
+  }
+}
