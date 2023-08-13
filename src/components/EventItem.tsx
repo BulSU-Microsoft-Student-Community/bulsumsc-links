@@ -19,7 +19,9 @@ const EventItem: React.FC<EventItemProps> = ({
         {subheading || date ? (
           <div className="flex flex-row justify-between items-center text-sm text-gray-500 mt-2 pt-2 border-t">
             <span className="">{subheading}</span>
-            <span className="">{date}</span>
+            <div className="bg-red-400 text-white py-0.5 px-2 rounded">
+              {date}
+            </div>
           </div>
         ) : (
           <></>
