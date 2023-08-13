@@ -9,7 +9,7 @@ const EventList = () => {
       {/* CTRL + ALT + INNOVATE */}
       <EventItem
         link="https://forms.office.com/r/yNkXkFayEA"
-        date="08-29"
+        date="Aug 29"
         subheading="Pitching Bootcamp"
       >
         PitchTech Bootcamp: Empowering Tech Visionaries to Conquer the Stage
