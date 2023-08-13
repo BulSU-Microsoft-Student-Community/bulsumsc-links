@@ -3,6 +3,7 @@ import CTAButton from "./components/CTAButton";
 import EventList from "./components/EventList";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import SocialsList from "./components/SocialsList";
 // import WorkInProgress from "./components/WorkInProgress";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <CTAButton />
       <EventList />
+      <SocialsList />
       {/* <WorkInProgress /> */}
       <Footer />
     </div>
