@@ -8,11 +8,11 @@ const EventList = () => {
       </h3>
       {/* CTRL + ALT + INNOVATE */}
       <EventItem
-        link="https://www.facebook.com/bulsu.officialmsc/posts/290388803498900"
+        link="https://forms.office.com/r/yNkXkFayEA"
         date="08-29"
         subheading="Pitching Competition"
       >
-        Ctrl+Alt+Innovate: Unleashing Tech Brilliance
+        PitchTech Bootcamp: Empowering Tech Visionaries to Conquer the Stage
       </EventItem>
     </div>
   );
