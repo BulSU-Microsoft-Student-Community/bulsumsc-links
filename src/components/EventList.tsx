@@ -14,6 +14,14 @@ const EventList = () => {
       >
         PitchTech Bootcamp: Empowering Tech Visionaries to Conquer the Stage
       </EventItem>
+      <EventItem
+        link="https://forms.office.com/r/6J8VX5vQxN"
+        date="Sep 9-10"
+        subheading="Robotics Workshop"
+      >
+        RoboQuest: Journey into Robotics - The First Bulacan Wide Robotics
+        Workshop! 🤖
+      </EventItem>
     </div>
   );
 };

@@ -8,17 +8,17 @@ const Footer = () => {
             <img
               src="https://i.imgur.com/jCW80nQ.png"
               alt="Bul-SU-Logo"
-              className="w-14 h-14 sm:w-20 sm:h-20"
+              className="w-12 h-12 sm:w-20 sm:h-20"
             />
             <img
               src="https://i.imgur.com/2S1tQyI.png"
               alt="OSOA"
-              className="w-14 h-14 sm:w-20 sm:h-20"
+              className="w-12 h-12 sm:w-20 sm:h-20"
             />
             <img
               src="https://i.imgur.com/bxmImUR.png"
               alt="CICT-Logo"
-              className="w-14 h-14 sm:w-20 sm:h-20"
+              className="w-12 h-12 sm:w-20 sm:h-20"
             />
           </div>
         </footer>,
